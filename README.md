@@ -16,21 +16,23 @@ Krok 4. Dodanie asercji.
  
 
 ## Wymagania do instalacji projektu
-soapUI 5.4.0
-plik z projektem i plik wykonywalny skryptu
+- soapUI 5.4.0
+- plik z projektem i plik wykonywalny skryptu
 
 
 ## Dokument opisujący instalację projektu oraz jego uruchomienie.
-Ściągnięcie repozytorium [Repozytorium](https://github.com/juana1990/wsb-rest-soapui-2019)
-Zmiana w 4 podskryptach namiaru na instalacje SoapUI
-Uruchomienie skryptu TestRun.bat
+1. Ściągnięcie repozytorium [Repozytorium](https://github.com/juana1990/wsb-rest-soapui-2019)
+2. Zmiana w 4 podskryptach namiaru na instalacje SoapUI
+3. Uruchomienie skryptu TestRun.bat
 
 
 ## Struktura umożliwiająca łatwe rozszerzanie o nowe elementy
 
-robimy kopie jednego z istniejących projektów                      usuwamy istniejące TEST SUITS 
-z projektu                     dodajemy nowe przypadki testowe                      zapisujemy 
-projekt w repozytorium z nową nazwą                       tworzymy kopie jednego z podskryptów 
-projektowych i nazywamy go zgodnie z nowym elementem                      w podskrypcie 
-aktualizujemy nazwę projektu                    w skrypcie TestRun.bat dopisujemy linię wywołującą 
-nowy skrypt                         aktualizujemy repozytorium.
+1. Robimy kopie jednego z istniejących projektów                      
+2. Usuwamy istniejące TEST SUITS z projektu                     
+3. Dodajemy nowe przypadki testowe                      
+4. Zapisujemy projekt w repozytorium z nową nazwą                       
+5. Tworzymy kopie jednego z podskryptów projektowych i nazywamy go zgodnie z nowym elementem                      
+6. W podskrypcie aktualizujemy nazwę projektu                    
+7. W skrypcie TestRun.bat dopisujemy linię wywołującą nowy skrypt                         
+8. Aktualizujemy repozytorium.
