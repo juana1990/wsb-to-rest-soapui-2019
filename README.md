@@ -3,11 +3,11 @@
 ## Proces tworzenia i modyfikacji przypadków testowych
 
 1. Dokumentacja. Został ustalony szablon i standardowy podział kroków: 
-SETUP - warunki wstępne
-TEST - opis testu
-QUERY PARAMS - lista parametrów z wartościami*
-EXPECTED RESULT - sposób uzyskania wyniku oczekiwanego i sam wynik
-TEARDOWN - czynności czyszczące środowisko po uruchomieniu testu
+ - SETUP - warunki wstępne
+ - TEST - opis testu
+ - QUERY PARAMS - lista parametrów z wartościami*
+ - EXPECTED RESULT - sposób uzyskania wyniku oczekiwanego i sam wynik
+ - TEARDOWN - czynności czyszczące środowisko po uruchomieniu testu
 2. Dodanie przypadku do SOAPUI. Dodanie niezbędnych kroków, zapytań REST opartych na pobranym wcześniej API Trello z SwaggerHUB. 
 3. Uzupełnienie odpowiednich parametrów zgodnie z dokumentacją testową. 
 4. Dodanie asercji. 
