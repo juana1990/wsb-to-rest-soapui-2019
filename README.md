@@ -1,6 +1,6 @@
 # projektWSB
 
-Proces tworzenia i modyfikacji przypadków testowych
+# Proces tworzenia i modyfikacji przypadków testowych
 
 Krok 1. Dokumentacja. Został ustalony szablon i standardowy podział kroków: 
 SETUP - warunki wstępne
