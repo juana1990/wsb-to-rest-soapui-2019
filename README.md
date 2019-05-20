@@ -21,7 +21,7 @@ plik z projektem i plik wykonywalny skryptu
 
 
 ## Dokument opisujący instalację projektu oraz jego uruchomienie.
-Ściągnięcie repozytorium [https://github.com/juana1990/wsb-rest-soapui-2019]
+Ściągnięcie repozytorium [Repozytorium](https://github.com/juana1990/wsb-rest-soapui-2019)
 Zmiana w 4 podskryptach namiaru na instalacje SoapUI
 Uruchomienie skryptu TestRun.bat
 
